@@ -13,7 +13,7 @@ public class App {
         session.beginTransaction();
         Person p1 = new Person();
         p1.setFirstName("sandeep");
-        p1.setLastName("K");
+        p1.setLastName("k");
         p1.setAge(25);
         Person p2= new Person();
         p2.setFirstName("raju");
